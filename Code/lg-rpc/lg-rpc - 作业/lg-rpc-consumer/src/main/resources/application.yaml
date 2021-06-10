@@ -1,0 +1,5 @@
+server:
+  port: 8080
+rpc:
+  servers[0]: 127.0.0.1:8899
+  servers[1]: 127.0.0.1:8898

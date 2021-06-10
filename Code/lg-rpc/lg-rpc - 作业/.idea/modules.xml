@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lg-rpc.iml" filepath="$PROJECT_DIR$/lg-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lg-rpc-api/lg-rpc-api.iml" filepath="$PROJECT_DIR$/lg-rpc-api/lg-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lg-rpc-consumer/lg-rpc-consumer.iml" filepath="$PROJECT_DIR$/lg-rpc-consumer/lg-rpc-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lg-rpc-provider/lg-rpc-provider.iml" filepath="$PROJECT_DIR$/lg-rpc-provider/lg-rpc-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lg-rpc-provider-8898/lg-rpc-provider-8898.iml" filepath="$PROJECT_DIR$/lg-rpc-provider-8898/lg-rpc-provider-8898.iml" />
+    </modules>
+  </component>
+</project>

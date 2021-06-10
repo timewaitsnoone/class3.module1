@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lg-rpc-provider-8898" />
+        <module name="lg-rpc-provider" />
+        <module name="lg-rpc-consumer" />
+        <module name="lg-rpc-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lg-rpc" target="1.8" />
+      <module name="lg-rpc-api" target="1.8" />
+      <module name="lg-rpc-consumer" target="1.8" />
+      <module name="lg-rpc-provider" target="1.8" />
+      <module name="lg-rpc-provider-8898" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lg-rpc-api" options="-parameters" />
+      <module name="lg-rpc-consumer" options="-parameters" />
+      <module name="lg-rpc-provider" options="-parameters" />
+      <module name="lg-rpc-provider-8898" options="-parameters" />
+    </option>
+  </component>
+</project>
